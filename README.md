@@ -3,7 +3,7 @@
 ![Search Result](readme_assets/1.png)
 
 ## Overview
-This project is a **music recommendation system** that leverages **Spotify's API** for song search and metadata retrieval and **YouTube's API** for streaming. The backend is built using **Flask (Python)**, while the frontend is developed with **React and TypeScript**. The application suggests songs based on audio features using a **K-Nearest Neighbors (KNN) model**.
+This project is a **music recommendation system** that leverages **Spotify's API** for song search and metadata retrieval and **YouTube's API** for streaming. The backend is built using **Flask (Python)**, while the frontend is developed with **React and JavaScript**. The application suggests songs based on audio features using a **K-Nearest Neighbors (KNN) model**.
 
 ## Features
 - **Search for songs** using the Spotify API
