@@ -51,7 +51,6 @@ The recommendation system uses a **K-Nearest Neighbors (KNN) model** to find sim
 1. Clone the repository:
    ```sh
    git clone https://github.com/roland7734/SpotifyClone.git
-   cd music-recommendation
    ```
 2. Install backend dependencies:
    ```sh
